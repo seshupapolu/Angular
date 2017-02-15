@@ -1,3 +1,3 @@
 ﻿(function (angular) {
-    angular.module("routeModule", ['ui-router']);
+    angular.module("routeModule", ['ui.router']);
 })(angular)
